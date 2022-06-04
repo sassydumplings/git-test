@@ -1,0 +1,9 @@
+git add .
+git commit -m 'message'
+git status
+
+git log --oneline
+git checkout <sha> index.html
+git reset HEAD index.html
+
+git checkout -- index.html
